@@ -1,1 +1,1 @@
-# dise-amos.cl
+# disenamos.cl
