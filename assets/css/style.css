@@ -186,7 +186,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:hover {
-  background: #00c27b;
+  background: #FFEDBF;
   color: #fff;
 }
 
@@ -576,7 +576,7 @@ h1, h2, h3, h4, h5, h6 {
   animation-timing-function: steps;
   opacity: 1;
   border-radius: 50%;
-  border: 5px solid rgba(0, 153, 97, 0.7);
+  border: 5px solid rgb(163, 158, 81);
   top: -15%;
   left: -15%;
   background: rgba(198, 16, 0, 0);
@@ -654,7 +654,7 @@ section {
 }
 
 .section-bg {
-  background-color: #FFEDBF;
+  background-color: #F8D58A;
 }
 
 .section-title {
@@ -1088,7 +1088,7 @@ section {
 }
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  background: #428bca;
+  background: #0f0f0f;
   color: #fff;
 }
 
@@ -1290,8 +1290,8 @@ section {
   z-index: 1;
   font-size: 13px;
   padding: 3px 25px 6px 25px;
-  background: #edfbf0;
-  color: #EBAD06;
+  background: #FCD15B;
+  color: #0f0f0f;
   border-radius: 50px;
 }
 
